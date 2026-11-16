@@ -5,3 +5,5 @@
 Join through my referral link: https://make.fun/r/9m688dgh (referral code: `9m688dgh`)
 
 Just open `index.html` in any browser — no build step, no external assets.
+SPDX-License-Identifier: MIT
+
